@@ -1,0 +1,10 @@
+D:\project\c-sharp\Login Form\Login Form\bin\Debug\Login Form.exe.config
+D:\project\c-sharp\Login Form\Login Form\bin\Debug\Login Form.exe
+D:\project\c-sharp\Login Form\Login Form\bin\Debug\Login Form.pdb
+D:\project\c-sharp\Login Form\Login Form\obj\Debug\Login Form.csprojAssemblyReference.cache
+D:\project\c-sharp\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+D:\project\c-sharp\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.cache
+D:\project\c-sharp\Login Form\Login Form\obj\Debug\Login Form.csproj.CoreCompileInputs.cache
+D:\project\c-sharp\Login Form\Login Form\obj\Debug\Login Form.exe
+D:\project\c-sharp\Login Form\Login Form\obj\Debug\Login Form.pdb
+D:\project\c-sharp\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
